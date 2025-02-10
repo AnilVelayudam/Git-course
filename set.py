@@ -21,6 +21,3 @@ print(player3)
 player4=TP.symmetric_difference(CP)
 print(player4)
 
-
-
-
